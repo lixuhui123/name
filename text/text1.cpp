@@ -1,1 +1,1 @@
-static int global = 10;
+ int global = 10;
